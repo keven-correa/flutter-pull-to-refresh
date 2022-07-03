@@ -1,6 +1,6 @@
 # pull_to_refresh
 
-A new Flutter project.
+An example of how to implement pull to refresh in a ListView
 
 ## Getting Started
 
